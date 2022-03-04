@@ -1,6 +1,6 @@
 {
-  "name": "discord-webhook-node",
-  "version": "1.1.8",
+  "name": "discord-webhook-nodejs",
+  "version": "1.2.2",
   "description": "Allows for easy webhook sending through discord's webhook API",
   "main": "./src/index.js",
   "exports": {
@@ -11,14 +11,14 @@
   "scripts": {
     "test": "mocha --timeout 50000"
   },
-  "author": "Matthew Mulfinger",
+  "author": "Eick Haendel - FindUP",
   "license": "MIT",
   "keywords": [
     "Webhook",
     "Discord",
     "Bot"
   ],
-  "homepage": "https://github.com/matthew1232/discord-webhook-node#readme",
+  "homepage": "https://github.com/findupworks/discord-webhook-node",
   "dependencies": {
     "form-data": "^3.0.0",
     "node-fetch": "^2.6.0"
